@@ -3,6 +3,7 @@
 
 https://7220.kstore.space/sxrtv.txt
 https://since1986.online/epg/live.m3u
+https://since1986.online/epg/mix.m3u
 https://cnb.cool/junchao.tang/live/-/git/raw/main/全球通.py
 https://since1986.online/epg/live.m3u
 https://d.kstore.dev/download/13670/cs.txt
