@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250729031138 +0800">
+<tv date="20250729062621 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5417,6 +5417,12 @@
 	</programme>
 	<programme channel="动作电影" start="20250729093000 +0800" stop="20250729112800 +0800">
 		<title lang="zh">破冰船</title>
+	</programme>
+	<programme channel="动作电影" start="20250729112800 +0800" stop="20250729120800 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="动作电影" start="20250729120800 +0800" stop="20250729135900 +0800">
+		<title lang="zh">扑朔迷离</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
@@ -20835,6 +20841,9 @@
 	<programme channel="黑莓动画" start="20250729091800 +0800" stop="20250729105600 +0800">
 		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250729105600 +0800" stop="20250729122500 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -20858,6 +20867,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250729100600 +0800" stop="20250729115700 +0800">
 		<title lang="zh">长江图</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250729115700 +0800" stop="20250729133900 +0800">
+		<title lang="zh">蜡笔小新剧场版2020</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
