@@ -5,6 +5,7 @@ https://7220.kstore.space/sxrtv.txt
 https://since1986.online/epg/live.m3u
 https://since1986.online/epg/mix.m3u
 https://cnb.cool/junchao.tang/live/-/git/raw/main/全球通.py
+https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 https://since1986.online/epg/live.m3u
 https://d.kstore.dev/download/13670/cs.txt
 http://kds.shanxixr.com/migu01.txt
@@ -13,5 +14,4 @@ https://live.catvod.com/mq.php?catvod.com=m3u
 http://183.189.97.61:35455/tv.m3u
 http://115.190.105.236:35455/tv.m3u
 https://since1986.fun/epg/mix.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/Desmond-Dong/IPTV/refs/heads/main/result.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/just/refs/heads/main/电视家.txt
+https://qu.ax/MWZsS.txt
