@@ -15,3 +15,7 @@ http://183.189.97.61:35455/tv.m3u
 http://115.190.105.236:35455/tv.m3u
 https://since1986.fun/epg/mix.m3u
 https://qu.ax/MWZsS.txt
+http://webview.ct.ws/webview.txt
+http://m3u.sjbox.cc/113.m3u
+http://bxtv.3a.ink/live.txt
+https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv8/refs/heads/main/bbxx.m3u
