@@ -1,4 +1,4 @@
-name: 'Update schedule'
+name: '自动更新IPTV Update'
 
 on:
   schedule:
