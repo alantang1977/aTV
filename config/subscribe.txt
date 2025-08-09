@@ -1,21 +1,20 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://7220.kstore.space/sxrtv.txt
 https://since1986.online/epg/live.m3u
 https://since1986.online/epg/mix.m3u
 https://cnb.cool/junchao.tang/live/-/git/raw/main/全球通.py
-https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 https://since1986.online/epg/live.m3u
-https://d.kstore.dev/download/13670/cs.txt
-http://kds.shanxixr.com/migu01.txt
-http://is.is-great.org/i/0885557.txt
-https://live.catvod.com/mq.php?catvod.com=m3u
-http://183.189.97.61:35455/tv.m3u
-http://115.190.105.236:35455/tv.m3u
-https://since1986.fun/epg/mix.m3u
-https://qu.ax/MWZsS.txt
-http://webview.ct.ws/webview.txt
-http://m3u.sjbox.cc/113.m3u
-http://bxtv.3a.ink/live.txt
-https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv8/refs/heads/main/bbxx.m3u
+https://gitee.com/junchao321/cinematography/raw/master/json.txt
+https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
+https://daili.korice.eu.org/https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/live2.json
+https://daili.korice.eu.org/https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt
+https://daili.korice.eu.org/https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u
+https://daili.korice.eu.org/https://raw.githubusercontent.com/alantang1977/time/refs/heads/main/output/user_result.txt
+https://daili.korice.eu.org/https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/网络收集.txt
+https://daili.korice.eu.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u
+https://d.kstore.dev/download/14756/python/live_kzb.py
+https://sub.ottiptv.cc/iptv.m3u
+https://cnb.cool/junchao.tang/live/-/git/raw/main/机车
+https://ds65.tv1288.xyz
+
