@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-17 11:05:54,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2025-08-19 10:42:24,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -1047,7 +1047,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 🚂┃湾区频道,#genre#
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,https://live.catvod.com/smart.php
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php
 翡翠台,https://smt.1789.dpdns.org/smt3.2.1.php
 翡翠台,http://cdn9.163189.xyz/smt1.1.php
 翡翠台,http://cdn5.1678520.xyz/live/
@@ -1060,6 +1059,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,https://stream1.freetv.fun/fei-cui-6.ctv
 翡翠台,https://stream1.freetv.fun/fei-cui-1.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://cdn5.1678520.xyz/live/
@@ -1107,8 +1107,6 @@ J2,http://php.jdshipin.com/TVOD/iptv.php
 明珠台,http://jxiptv.dpdns.org/stream/4gtv/null-1/master.m3u8
 明珠台,http://php.jdshipin.com:8880/smt.php
 明珠台,http://tl.061833.xyz/tl/null-12
-明珠台,http://php.jdshipin.com/TVOD/iptv.php
-明珠台,http://jxiptv.dpdns.org/stream/4gtv/null-1/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 无线明珠,https://vx65267199.18cn.dpdns.org/10.m3u8
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php
 无线明珠,http://cdn5.132.us.kg/live/mzt/stream.m3u8
@@ -1116,7 +1114,6 @@ J2,http://php.jdshipin.com/TVOD/iptv.php
 无线明珠,https://smt.1789.dpdns.org/smt3.2.1.php
 无线明珠,https://cdn5.163189.xyz/live/mzt/stream.m3u8
 无线明珠,http://tl.061833.xyz/tl/null-12
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 娱乐新闻台,https://hls-gateway.vpstv.net/streams/708904.m3u8
 娱乐新闻台,http://jxiptv.dpdns.org/stream/4gtv/null-6/master.m3u8
@@ -1299,8 +1296,6 @@ RTHK 32,http://free.cnlive.club/channel/n8badbb4/index.m3u8?q=1752629214236
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php
 凤凰卫视,https://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰卫视,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-7.m3u8
 香港卫视,https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
@@ -1375,7 +1370,7 @@ CINEMAX,http://free.cnlive.club/channel/7c7a1311/index.m3u8?q=1752629214236
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-7.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-3.ctv
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
+东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 寰宇财经,http://free.cnlive.club/channel/n4332074a/index.m3u8?q=1752629214236
 寰宇财经,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
@@ -1636,6 +1631,7 @@ MTV Live,http://free.cnlive.club/channel/731620b3/index.m3u8?q=1752629214236
 北京生活,https://migu.188766.xyz/?migutoken=d9794bcdbd8ed2f540adec4091aeae61&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=7b630dd7df0544db8fccac1b47f670b4&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=b93d7f1aaac27b855dabbd2b63045f91&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+北京生活,https://migu.188766.xyz/?migutoken=565c227127e95530bb33ae23f2ecc207&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京科教,http://k.061899.xyz/m.php
 北京财经,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
 北京财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
@@ -1648,6 +1644,7 @@ MTV Live,http://free.cnlive.club/channel/731620b3/index.m3u8?q=1752629214236
 北京财经,https://migu.188766.xyz/?migutoken=bafd29bad663c882d38c02e1178d76e8&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=0d6ed2fa2e623425a7cf5438c0969545&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=733046bb3230da4d4861773d7cec10d2&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+北京财经,https://migu.188766.xyz/?migutoken=ae8f69bc17dd95f9e15350f8d5a37981&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 
 📚┃上海频道,#genre#
 七彩戏剧,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116
@@ -1666,10 +1663,10 @@ MTV Live,http://free.cnlive.club/channel/731620b3/index.m3u8?q=1752629214236
 上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=8b95309dfa6edf746d5a78e20770d317&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250815060032&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20250815060032&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-8.8.1-RELEASE&userid=1428589774&jmhm=8b95309dfa6edf746d5a78e20770d317&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f553305b5fa1b6c7481701bca0a20c14&ddCalcu=4f15xc5a03w23aa005abc5bf1a017b168c47&sv=10004&ct=android
 上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=20250815060032dcad37d9738342bb95480b6df4ab6936&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250815060032&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20250815060032&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=237223843ef3ed3bc2894bf37f959838&ddCalcu=8233v87a92w52a93f87433febf439e8d23cb&sv=10004&ct=android
 上海新闻综合,https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=891ea160d5a9d17fc47ce2898bfcdd054e03af82bba1da321a94e14e8b00525d6212945c962d287cf0cb809c6ce37ab43683f4a65896451ab1db207903872927aba991ba4e84ddcd4f158f63a4
-上海新闻综合,https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=01207e61397efc87fbc4d6f1f593aa18929131d8e5207c751662368eb06e3111664cc1f38d46bcbc8dcd554d0c2f14b5a0ea1e10a388deb7b7d30990ae438c329a5477a217cb66543aa7c3c546
 上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?msisdn=8b95309dfa6edf746d5a78e20770d317&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250817000043&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20250817000043&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=1428589774&jmhm=8b95309dfa6edf746d5a78e20770d317&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1e3024b024015569b5e307c7090a82ff&ddCalcu=f1fex23a80wa2a049b0072c4700135e556b9&sv=10004&ct=android
 上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=8b95309dfa6edf746d5a78e20770d317&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250817000043&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20250817000043&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=1428589774&jmhm=8b95309dfa6edf746d5a78e20770d317&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=22b4e25c14123df00893e2bb09281e7f&ddCalcu=f272xeba14w8ea22950cb1b421e2339d8f00&sv=10004&ct=android
 上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=20250817000043316eae69d2fb45e396d510d29c2052de&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250817000043&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20250817000043&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=07865e6479b8f8d6e1cbf64c73902882&ddCalcu=2087v88a26w05a9e3674c7496bf8bfc81de6&sv=10004&ct=android
+上海新闻综合,https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=046a8f02cf690c7975f3133a446fedb40c99cc6223e320629b59df82a51cc5de643c343f0c4e0a76b36f992ac036a0d248283bca39782f198fcc73db6b7947e5e4eb218a6d7fe1b713032da7b3
 上海第一财经,https://cutt.ly/KrbcsrT6
 上海第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8
 上海第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=3eb3039633ecfd64196030967cb0116f7d4424bffe9cf8a8784ea62f10050f1653a335f7a7d99765a1203c5f890d13b51e6c6ab1e8b54b93fba3bce1bc9f9a2e99677c12e34a15a0c92b6bedf8
@@ -1677,9 +1674,10 @@ MTV Live,http://free.cnlive.club/channel/731620b3/index.m3u8?q=1752629214236
 上海第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=abf194a4d708b3966c70e77dd5b5b88ad90598b635620f8b7ed82bb13f2073b2e5848c0568305bddf25fb2b1be3f89cc6a29452ce8101d49f6d2206b25a901a6114fd70a07d8ef40badc093e0f
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=8b95309dfa6edf746d5a78e20770d317&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250815060033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.83&SecurityKey=20250815060033&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-8.8.1-RELEASE&userid=1428589774&jmhm=8b95309dfa6edf746d5a78e20770d317&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=332c1be06924189bb6189c4302465d4c&ddCalcu=c343xd2a5cl61a4b2e003649c294811869bb&sv=10004&ct=android
 上海第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=50b9abe6b06e07244c09a55eb488023c16e953226e63bb285d76a839e3e015697b7c5ac6f980c23997edd8c87cad9e602ca275652491f3706900995d5bd060b4985cbfac34a5c2765e9a2cec80
-上海第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=475aedb6798fc5442e92f5abce155074b92efa7085fdcf8d8c0c47d288e63e845aa8e7af4206a609d1bc25e4f4776d14b379b533ab04378b96c97f1da7f0cc8e5e2971222abb92e0e58e69e63e
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=8b95309dfa6edf746d5a78e20770d317&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250817000043&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.83&SecurityKey=20250817000043&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=1428589774&jmhm=8b95309dfa6edf746d5a78e20770d317&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1c6d505c5264c3cc9c67f6711ec5d8e0&ddCalcu=01ecx86addl55ac0e51c157266f47c63cc9c&sv=10004&ct=android
 上海第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=d53a9e701576e4d760b479adac9cae260febac583eb48c68409f8ee6d2287d275d3078443a754edd3ccbf43b96e5c66f7be8b9d5a0d918223747e739e85902ef6e34528eb6785d275c193a63a8
+上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=8b95309dfa6edf746d5a78e20770d317&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250819060039&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.83&SecurityKey=20250819060039&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=1428589774&jmhm=8b95309dfa6edf746d5a78e20770d317&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5b0d57d73dc1c858424e33aab33a8f77&ddCalcu=757bxf0a8dla5a373db7a3ad3c31ec482548&sv=10004&ct=android
+上海第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=5c41347075c4b1875626b9ce9def00224b763235a931ea2bd0b02e5257c38e7974760e45cb40e6f3d5c48295a878cfc67fa5a2852370f72870733178cbfc86da50b6b510008252f11048ccc748
 上海纪实,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010067
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海纪实,https://stream1.freetv.fun/shang-hai-ji-shi-ren-wen-1.m3u8
@@ -1924,11 +1922,11 @@ NewTV动作电影,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLT
 天映经典,http://fr-us7.jdiptv.cc/live/xgtyjdgy.m3u8
 天映经典,https://smt.1789.dpdns.org/smt3.2.1.php
 天映经典,https://100.061833.xyz/stream/mytv/null-1/stream.m3u8
-无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com/smt.php
 无线星河,http://php.jdshipin.com/PLTV/iptv.php
 无线星河,https://smt.1789.dpdns.org/smt3.2.1.php
 无线星河,http://cdn9.163189.xyz/smt1.1.php
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-14.m3u8
@@ -1939,7 +1937,6 @@ NewTV动作电影,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLT
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-2.ctv
 星空卫视,http://wouu.net:9977/udp/239.93.1.10:2193
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 东森电影,https://stream1.freetv.fun/7e7daf1aca2b5fc6ab5365c3d5201b91e3b538cd4a947fd5bdb0256900d3f638.m3u8
