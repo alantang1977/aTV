@@ -2,8 +2,6 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://d.kstore.dev/download/15114/TVSolo.txt
-https://since1986.online/epg/live.m3u
-https://since1986.online/epg/mix.m3u
 https://cnb.cool/junchao.tang/live/-/git/raw/main/全球通.py
 https://since1986.online/epg/live.m3u
 https://gitee.com/junchao321/cinematography/raw/master/json.txt
