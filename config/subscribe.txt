@@ -3,7 +3,7 @@
 
 https://d.kstore.dev/download/15114/TVSolo.txt
 https://cnb.cool/junchao.tang/live/-/git/raw/main/全球通.py
-https://since1986.online/epg/live.m3u
+
 https://gitee.com/junchao321/cinematography/raw/master/json.txt
 https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
 https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/live2.json
