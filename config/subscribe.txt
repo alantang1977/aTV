@@ -9,7 +9,7 @@ https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
 https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/live2.json
 https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt
 https://raw.githubusercontent.com/alantang1977/TV_video/refs/heads/main/interface.txt
-https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u
 https://raw.githubusercontent.com/alantang1977/time/refs/heads/main/output/user_result.txt
 https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/网络收集.txt
 https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u
