@@ -18,3 +18,19 @@ https://sub.ottiptv.cc/iptv.m3u
 https://cnb.cool/junchao.tang/live/-/git/raw/main/机车
 https://ds65.tv1288.xyz
 
+https://pastebin.com/raw/rmGTuRZL
+https://live.catvod.com/tv.m3u
+https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
+https://d.kstore.dev/download/15114/TVSolo.txt
+https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/TVsmile/refs/heads/main/网络收集.txt
+https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/TVsmile/refs/heads/main/组播优选.txt
+https://gitee.com/zhanghuan12345/play/raw/master/jxyd
+
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://live.hacks.tools/tv/iptv6.txt
+https://live.hacks.tools/tv/iptv4.txt
