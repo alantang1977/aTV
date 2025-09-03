@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-01 10:59:21,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2025-09-03 10:25:58,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -198,6 +198,7 @@
 纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-1.m3u8
 纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-8.m3u8
+纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-12.m3u8
 纪实科教,http://cc06.tv12.xyz/28.m3u8
 纪实科教,https://cc06.tv12.xyz/28.m3u8
 纪实科教,https://hls-gateway.vpstv.net/streams/708837.m3u8
@@ -1127,8 +1128,7 @@ J2,http://php.jdshipin.com/TVOD/iptv.php
 明珠台,http://jxiptv.dpdns.org/stream/4gtv/null-1/master.m3u8
 明珠台,http://php.jdshipin.com:8880/smt.php
 明珠台,http://tl.061833.xyz/tl/null-12
-明珠台,http://php.jdshipin.com/TVOD/iptv.php
-明珠台,http://jxiptv.dpdns.org/stream/4gtv/null-1/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+明珠台,https://migu.188766.xyz/?migutoken=bf0924af4389301debfca391cdfea3b4&id=pearl_twn&type=dy
 无线明珠,https://vx65267199.18cn.dpdns.org/10.m3u8
 无线明珠,http://php.jdshipin.com/PLTV/iptv.php
 无线明珠,http://cdn5.132.us.kg/live/mzt/stream.m3u8
@@ -1137,7 +1137,6 @@ J2,http://php.jdshipin.com/TVOD/iptv.php
 无线明珠,https://cdn5.163189.xyz/live/mzt/stream.m3u8
 无线明珠,http://tl.061833.xyz/tl/null-12
 无线明珠,https://smt.1789.dpdns.org/smt3.2.1.php?id=pearl_twn
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 娱乐新闻台,https://hls-gateway.vpstv.net/streams/708904.m3u8
 娱乐新闻台,http://jxiptv.dpdns.org/stream/4gtv/null-6/master.m3u8
@@ -2000,6 +1999,7 @@ AFC 亚洲旅游台,https://live.catvod.com/catvod_com.php
 纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-1.m3u8
 纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-8.m3u8
+纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-12.m3u8
 都市剧场,https://mursor.ottiptv.cc/bst/dsjc@4000000.m3u8
 都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 都市剧场,https://hls-gateway.vpstv.net/streams/708845.m3u8
@@ -2146,7 +2146,6 @@ NewTV动作电影,https://fenghuang.tv12.xyz/26.m3u8
 无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,https://smt.1789.dpdns.org/smt3.2.1.php?id=Xinhe
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-14.m3u8
@@ -2157,7 +2156,6 @@ NewTV动作电影,https://fenghuang.tv12.xyz/26.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-2.ctv
 星空卫视,http://wouu.net:9977/udp/239.93.1.10:2193
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 东森电影,https://stream1.freetv.fun/7e7daf1aca2b5fc6ab5365c3d5201b91e3b538cd4a947fd5bdb0256900d3f638.m3u8
@@ -2477,6 +2475,7 @@ CCTV-5+,https://fenghuang.tv12.xyz/6.m3u8
 江苏体育,https://migu.188766.xyz/?migutoken=063e5ddd5d3d0ac1d57e42426df30206&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江苏体育,https://migu.188766.xyz/?migutoken=9a02a01a0f0532b66b3855ba5283b98b&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江苏体育,https://migu.188766.xyz/?migutoken=d2d14164d80ffd8d5a4d1a5c4e36c1aa&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
+江苏体育,https://migu.188766.xyz/?migutoken=34281bba390e7fd485c99e2a3bdd1027&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746292937&key=940b0f98a121c28884c74971efaac4de
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746307365&key=6b104d1fc66c5b34b63d0e19c627e0f9
@@ -2513,9 +2512,9 @@ CCTV-5+,https://fenghuang.tv12.xyz/6.m3u8
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8
 睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8
 睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8
-睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
-睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011524.m3u8?cdn=FifastbLive
+睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 风云足球,http://n1.gzbody.com:85/rtp/239.253.43.14:5146
 风云足球,http://n1.gzbody.com:85/rtp/239.253.43.20:5146
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
@@ -2557,7 +2556,7 @@ CCTV-5+,https://fenghuang.tv12.xyz/6.m3u8
 快乐垂钓,https://mursor.ottiptv.cc/bst/klcd4m@4000000.m3u8
 快乐垂钓,http://cc06.tv12.xyz/56.m3u8
 JJ斗地主,https://live.iill.top/huya/14079954
-JJ斗地主,https://live.iill.top/douyin/685317364746
+JJ斗地主,https://live.iill.top/douyin/jjworld
 
 📚┃动画频道,#genre#
 卡酷动画,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
