@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/alantang1977/aTV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-10-21 10:37:43
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-10-23 10:33:04
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍄┃广东频道",广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -401,8 +401,6 @@ https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-8.m3u8
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="🍄┃广东频道",纪实人文
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226144/1/index.m3u8
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="🍄┃广东频道",纪实人文
-https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-12.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实科教.png" group-title="🍄┃广东频道",纪实科教
 http://cc06.tv12.xyz/28.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实科教.png" group-title="🍄┃广东频道",纪实科教
@@ -2140,8 +2138,6 @@ https://cdn3.163189.xyz/live/fct/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🚂┃湾区频道",翡翠台
 https://live.catvod.com/smart.php
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🚂┃湾区频道",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🚂┃湾区频道",翡翠台
 https://smt.1789.dpdns.org/smt3.2.1.php
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🚂┃湾区频道",翡翠台
 http://cdn9.163189.xyz/smt1.1.php
@@ -2161,6 +2157,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🚂┃湾区频道",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🚂┃湾区频道",翡翠台
+https://stream1.freetv.fun/fei-cui-6.ctv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🚂┃湾区频道",凤凰资讯
 http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🚂┃湾区频道",凤凰资讯
@@ -2237,6 +2235,8 @@ https://live.catvod.com/live.php?id=TVN&token=64a87b915e8b90ebbb1c677a164f857146
 https://live.catvod.com/live.php?id=TVN&token=c0ab68998bc51ca39599826eea0c30b976abcc3c35c33937f7a2978a9535880b%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="🚂┃湾区频道",tvN
 https://live.catvod.com/live.php?id=TVN&token=383c3c22e9c0dcaa27dd42218f1bd0bff42b513072138910a5e4ba5127a9495d%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="🚂┃湾区频道",tvN
+https://live.catvod.com/live.php?id=TVN&token=dfd3955dded19b9a4190467219babcddedcc75ffda9c6b2661d7a05379828d07%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🚂┃湾区频道",PopC
 http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🚂┃湾区频道",PopC
@@ -2377,6 +2377,8 @@ https://live.catvod.com/live.php?id=tvbs_n&token=f625a92033065f326aecc7cd0a5c7c0
 https://live.catvod.com/live.php?id=tvbs_n&token=2aed8a8d45da3d777fe4b2e990375283602429a4470fe8a639e944802ab6261c%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="🚂┃湾区频道",TVBS新闻
 https://live.catvod.com/live.php?id=tvbs_n&token=a8f9a476847d2d54d09e9e92c86a347fd44231dd7a7740c2df8467ea0ff5722a%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="🚂┃湾区频道",TVBS新闻
+https://live.catvod.com/live.php?id=tvbs_n&token=083930ce730127889fc2e196867cdcb0ecbf71db4b615873cd22d9ff9ae8dc27%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐.png" group-title="🚂┃湾区频道",TVBS欢乐
 https://hls-gateway.vpstv.net/streams/477068.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐.png" group-title="🚂┃湾区频道",TVBS欢乐
@@ -2397,10 +2399,14 @@ https://live.catvod.com/live.php?id=tvbshuanle_twn&token=2f0aa336ff962d413ce8a09
 https://live.catvod.com/live.php?id=tvbshuanle_twn&token=8e00e4b1d9c72f7d748b8f720a62c734ca8f979030b5563791a563a882bcfbb7%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐.png" group-title="🚂┃湾区频道",TVBS欢乐
 https://live.catvod.com/live.php?id=tvbshuanle_twn&token=57834bc0729200d0c29d0b442dc9146cee1fbc5cc562dec17fdc0124f3b309eb%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐.png" group-title="🚂┃湾区频道",TVBS欢乐
+https://live.catvod.com/live.php?id=tvbshuanle_twn&token=7f137d1bcd390eea7d52a986132ab5657ca442ccd2f96f90059955cf8af23a06%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新聞台.png" group-title="🚂┃湾区频道",寰宇新聞台
 http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新聞台.png" group-title="🚂┃湾区频道",寰宇新聞台
 https://jack.11cn.dpdns.org/55.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新聞台.png" group-title="🚂┃湾区频道",寰宇新聞台
+https://mack.pl10000.top/55.m3u8
 #EXTINF:-1 tvg-name="now新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/now新闻.png" group-title="🚂┃湾区频道",now新闻
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠综合台(北美).png" group-title="🚂┃湾区频道",翡翠综合台(北美)
@@ -2571,6 +2577,8 @@ https://live.catvod.com/live.php?id=sanlitaiwan&token=4c34755238fdca3c5c6547c16e
 https://live.catvod.com/live.php?id=sanlitaiwan&token=7b7f972ea020e9a4e708b37557e94a2323857858d7cdda6788f1d5d7e7132ecd%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="🚂┃湾区频道",三立台湾
 https://live.catvod.com/live.php?id=sanlitaiwan&token=5245a3a027320f403ab85d31cf0a09d76ff48643ce7a912b99744b8159e63f22%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="🚂┃湾区频道",三立台湾
+https://live.catvod.com/live.php?id=sanlitaiwan&token=e3e44349d40333148fe139f97c0a434ab55012bd84a9047a517df57830bb7d51%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🚂┃湾区频道",三立新闻
 https://stream1.freetv.fun/san-li-xin-wen-5.ctv
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🚂┃湾区频道",三立新闻
@@ -2625,6 +2633,8 @@ https://live.catvod.com/live.php?id=ettvzhonghe&token=45b99054c343e6b2f337a66ce3
 https://live.catvod.com/live.php?id=ettvzhonghe&token=d0bf897be7ad89baecee05018f0db9cb4f38c2c0bdefd940d20219c192a3fb28%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="🚂┃湾区频道",东森综合
 https://live.catvod.com/live.php?id=ettvzhonghe&token=438bf0785954afeddecd2007140c6f45d7e49c423e06e155cade96f8de7a31bf%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="🚂┃湾区频道",东森综合
+https://live.catvod.com/live.php?id=ettvzhonghe&token=c368243854b2dff6cc0c75082e5b7c4b297c4dde915add3c6777f4d35f51a335%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🚂┃湾区频道",东森超视
 https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🚂┃湾区频道",东森超视
@@ -2713,10 +2723,14 @@ https://jack.11cn.dpdns.org/120.m3u8
 https://jack.11cn.dpdns.org/53.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🚂┃湾区频道",中天新聞台
 https://jack.11cn.dpdns.org/72.m3u8
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🚂┃湾区频道",中天新聞台
+https://mack.pl10000.top/53.m3u8
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🚂┃湾区频道",中視
 https://jack.11cn.dpdns.org/48.m3u8
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🚂┃湾区频道",中視
 https://jack.11cn.dpdns.org/104.m3u8
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🚂┃湾区频道",中視
+https://mack.pl10000.top/48.m3u8
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/千禧經典台.png" group-title="🚂┃湾区频道",千禧經典台
 http://php.jdshipin.com/TVOD/iptv.php
 #EXTINF:-1 tvg-name="新加坡中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新加坡中文.png" group-title="🚂┃湾区频道",新加坡中文
@@ -2729,16 +2743,22 @@ http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 https://jack.11cn.dpdns.org/50.m3u8
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🚂┃湾区频道",華視
 https://jack.11cn.dpdns.org/105.m3u8
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🚂┃湾区频道",華視
+https://mack.pl10000.top/50.m3u8
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="🚂┃湾区频道",龍華日韓台
 http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="🚂┃湾区频道",龍華日韓台
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="🚂┃湾区频道",龍華日韓台
 https://jack.11cn.dpdns.org/66.m3u8
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="🚂┃湾区频道",龍華日韓台
+https://mack.pl10000.top/66.m3u8
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影台.png" group-title="🚂┃湾区频道",龍華電影台
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影台.png" group-title="🚂┃湾区频道",龍華電影台
 https://jack.11cn.dpdns.org/68.m3u8
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影台.png" group-title="🚂┃湾区频道",龍華電影台
+https://mack.pl10000.top/68.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🚂┃湾区频道",凤凰香港
 http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🚂┃湾区频道",凤凰香港
@@ -2921,6 +2941,8 @@ https://live.catvod.com/live.php?id=videolandyule&token=f49acd30e6a4b3bc5ba66d70
 https://live.catvod.com/live.php?id=videolandyule&token=8652edc19c5b19d5d77a66ebbeaae4ac50b98a372b9fe1a3d58cd24734b60817%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="🚂┃湾区频道",纬来育乐
 https://live.catvod.com/live.php?id=videolandyule&token=9e0d7547bafd828c1ecf4e0c9eaedecb579111d561f24536cbc765097e14a81b%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="🚂┃湾区频道",纬来育乐
+https://live.catvod.com/live.php?id=videolandyule&token=29d66f02bb445a2069a8f31cbb216cf3f2cbf9de61528e66d4c52126be7431e7%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="BBC Cbeebies" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Cbeebies.png" group-title="🚂┃湾区频道",BBC Cbeebies
 https://hls-gateway.vpstv.net/streams/709102.m3u8
 #EXTINF:-1 tvg-name="BBC Cbeebies" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Cbeebies.png" group-title="🚂┃湾区频道",BBC Cbeebies
@@ -3219,6 +3241,8 @@ https://live.catvod.com/live.php?id=huanyutaiwan_twn&token=ac7f5b16cfaa540848959
 https://live.catvod.com/live.php?id=huanyutaiwan_twn&token=3bc3ab7c90ffbbf871e3fbf26d2e4527d4ade85b18fd00af16a72a7109205692%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇财经.png" group-title="🅱┃台湾频道",寰宇财经
 https://live.catvod.com/live.php?id=huanyutaiwan_twn&token=6c3f1a08d8f92f92af2fd40a78d8af90bdfe6ebf755df975b6a56a7d8b13be31%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇财经.png" group-title="🅱┃台湾频道",寰宇财经
+https://live.catvod.com/live.php?id=huanyutaiwan_twn&token=d4516ffb14e812ee19f2fc7a7d00b523186ba6e087c3ef40ace933b9d49e751e%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻台.png" group-title="🅱┃台湾频道",寰宇新闻台
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻台.png" group-title="🅱┃台湾频道",寰宇新闻台
@@ -3377,6 +3401,8 @@ https://live.catvod.com/live.php?id=videolandyule&token=f49acd30e6a4b3bc5ba66d70
 https://live.catvod.com/live.php?id=videolandyule&token=8652edc19c5b19d5d77a66ebbeaae4ac50b98a372b9fe1a3d58cd24734b60817%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="🅱┃台湾频道",纬来育乐
 https://live.catvod.com/live.php?id=videolandyule&token=9e0d7547bafd828c1ecf4e0c9eaedecb579111d561f24536cbc765097e14a81b%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="🅱┃台湾频道",纬来育乐
+https://live.catvod.com/live.php?id=videolandyule&token=29d66f02bb445a2069a8f31cbb216cf3f2cbf9de61528e66d4c52126be7431e7%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="纬来精彩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来精彩.png" group-title="🅱┃台湾频道",纬来精彩
 http://free.cnlive.club/channel/581c2f1a/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="纬来精彩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来精彩.png" group-title="🅱┃台湾频道",纬来精彩
@@ -3401,6 +3427,8 @@ https://live.catvod.com/live.php?id=videolandspecial_twn&token=0396c45793bee469c
 https://live.catvod.com/live.php?id=videolandspecial_twn&token=626eece241ff870d53eaa345358dde5d3957ecd89a3f5a32812f01a877112383%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="纬来精彩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来精彩.png" group-title="🅱┃台湾频道",纬来精彩
 https://live.catvod.com/live.php?id=videolandspecial_twn&token=3b4a8a34fa3c7aa94cf32f9d2606c46516dc1e05ff0a919cf9935019bef7be08%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="纬来精彩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来精彩.png" group-title="🅱┃台湾频道",纬来精彩
+https://live.catvod.com/live.php?id=videolandspecial_twn&token=55aa3d83532ebab4e481ea6a8df9aa78a45d40cf890ceecdf30d7236e7a474f4%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大爱2台.png" group-title="🅱┃台湾频道",大爱2台
 https://live.catvod.com/catvod_com.php
 #EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大爱2台.png" group-title="🅱┃台湾频道",大爱2台
@@ -3429,6 +3457,8 @@ https://live.catvod.com/live.php?id=afc_twn&token=0574e9ec46ddf10099a735a77c14ca
 https://live.catvod.com/live.php?id=afc_twn&token=2881d0f48b9f4b709cda7edf56f467311c811aa23829e6df647a54e7d9ee2f70%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="亚洲美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲美食.png" group-title="🅱┃台湾频道",亚洲美食
 https://live.catvod.com/live.php?id=afc_twn&token=b683be90687a06dfd3eb1b82961a6222219dfaa8bd379548f4951c5e57e44974%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="亚洲美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲美食.png" group-title="🅱┃台湾频道",亚洲美食
+https://live.catvod.com/live.php?id=afc_twn&token=e10f9af79ba0bda9edd81d27f189b28bdd916e9498e7195f822ded7bdb6a5f89%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="美食星球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美食星球.png" group-title="🅱┃台湾频道",美食星球
 http://free.cnlive.club/channel/5939fd4b/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="美食星球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美食星球.png" group-title="🅱┃台湾频道",美食星球
@@ -4479,8 +4509,6 @@ https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-8.m3u8
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="📚┃上海频道",纪实人文
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226144/1/index.m3u8
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="📚┃上海频道",纪实人文
-https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-12.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="📚┃上海频道",都市剧场
 https://mursor.ottiptv.cc/bst/dsjc@4000000.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="📚┃上海频道",都市剧场
@@ -4761,8 +4789,6 @@ https://php.946985.xyz/iptv/jacktv.php
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🎬┃电影频道",靖天映画
 https://php.946985.filegear-sg.me/iptv/jacktv.php
-#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🎬┃电影频道",靖天映画
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天戏剧.png" group-title="🎬┃电影频道",靖天戏剧
 http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天戏剧.png" group-title="🎬┃电影频道",靖天戏剧
@@ -4771,8 +4797,6 @@ http://pullpackage.alivecdn.com/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBr
 https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天戏剧.png" group-title="🎬┃电影频道",靖天戏剧
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir
-#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天戏剧.png" group-title="🎬┃电影频道",靖天戏剧
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬┃电影频道",经典电影
 http://goo.bkpcp.top/mg/jdxgdy
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬┃电影频道",经典电影
@@ -4834,8 +4858,6 @@ https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬┃电影频道",天映经典
 https://hls-gateway.vpstv.net/streams/709488.m3u8
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🎬┃电影频道",无线星河
-http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🎬┃电影频道",无线星河
 http://php.jdshipin.com/smt.php
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🎬┃电影频道",无线星河
 http://php.jdshipin.com/PLTV/iptv.php
@@ -4853,6 +4875,8 @@ https://smt.1789.dpdns.org/smt3.2.1.php?id=Xinhe
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🎬┃电影频道",无线星河
 http://tl.061833.xyz/tl/null-7
+#EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🎬┃电影频道",无线星河
+http://php.jdshipin.com:8880/TVOD/iptv.php
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="🎬┃电影频道",星空卫视
 http://wouu.net:9977/rtp/239.93.1.10:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="🎬┃电影频道",星空卫视
@@ -4877,6 +4901,8 @@ http://iptv.huuc.edu.cn/hls/startv.m3u8
 https://stream1.freetv.fun/xing-kong-wei-shi-14.ctv
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="🎬┃电影频道",星空卫视
 https://stream1.freetv.fun/xing-kong-wei-shi-6.ctv
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="🎬┃电影频道",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🎬┃电影频道",东森电影
 https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🎬┃电影频道",东森电影
@@ -4937,6 +4963,8 @@ https://live.catvod.com/live.php?id=ettvwestern&token=5ea0168b81b9065e85324ffbac
 https://live.catvod.com/live.php?id=ettvwestern&token=1746db6d4dd84eca73a9812d05fd7d673ca00393192580b2138fde5a2afcbe61%3A1760837111%3ANjQuMjM2LjE1My4xNjA%3D
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬┃电影频道",东森洋片
 https://live.catvod.com/live.php?id=ettvwestern&token=d7c0da94491d1c6e3fcb48f185826093df449f56d136ff81bfea97c5b60160e2%3A1761009405%3AMjAuNTUuMjEzLjExNQ%3D%3D
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬┃电影频道",东森洋片
+https://live.catvod.com/live.php?id=ettvwestern&token=26c45d6636a1192c92dd36198e022f2af4d26b0204f907d6765bdfafcf964f04%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬┃电影频道",东森超视
 https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬┃电影频道",东森超视
@@ -5736,9 +5764,9 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="🏀┃体育频道",睛彩广场舞
 http://missyao.com:35455/itv/3000000020000011523.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="🏀┃体育频道",睛彩广场舞
-http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="🏀┃体育频道",睛彩广场舞
-http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8
+http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="🏀┃体育频道",风云足球
 http://n1.gzbody.com:85/rtp/239.253.43.14:5146
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="🏀┃体育频道",风云足球
@@ -5843,8 +5871,6 @@ https://gd.11cn.dpdns.org/144.m3u8
 https://shyd.695847.xyz/cms001/ch00000090990000001235/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀┃体育频道",JJ斗地主
 https://live.iill.top/huya/14079954
-#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀┃体育频道",JJ斗地主
-https://live.iill.top/douyin/685317364746
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="📚┃动画频道",卡酷动画
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="📚┃动画频道",卡酷动画
@@ -6265,5 +6291,3 @@ http://live.iill.top/yy.php?id=1354210357
 http://live.iill.top/huya.php?id=23824164
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/射雕英雄传.png" group-title="🏛┃经典剧场",射雕英雄传
 https://live.iill.top/huya/23824164
-#EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/射雕英雄传.png" group-title="🏛┃经典剧场",射雕英雄传
-https://live.iill.top/huya.php?id=23824164
